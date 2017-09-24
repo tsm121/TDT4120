@@ -1,7 +1,7 @@
 # TDT4120
 Algoritmer og datastrukturer [autumn 2016]
 
-Repository include deliveries with different algorithms. 
+Repository include assignments for this course. Such as: solving problems with different algorithms. 
 
 # Faglig innhold
 
